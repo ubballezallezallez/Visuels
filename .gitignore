@@ -1,0 +1,13 @@
+# Sorties générées
+out/
+# Polices (à télécharger depuis Google Fonts, voir README)
+fonts/*.ttf
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Secrets et fichiers locaux
+.env
+*.token
+.DS_Store

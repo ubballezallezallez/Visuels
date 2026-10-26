@@ -1,0 +1,20 @@
+{
+  "kicker": "POINT MÉDICAL · TOP 14",
+  "title": "L'INFIRMERIE",
+  "subtitle": "avant UBB - Bayonne · samedi 31/10 · Chaban-Delmas",
+  "context": "Forfaits et blessés du match à La Rochelle (19-25, 25/10)",
+  "groups": [
+    {"position": "Piliers", "players": [
+      {"name": "Lasha PKHAKADZE", "injury": "Forfait de dernière minute · motif non communiqué", "return": "non communiqué"}]},
+    {"position": "2e ligne", "players": [
+      {"name": "Adam ZAPEDOWSKI", "injury": "Commotion (sorti à la 18e)", "return": "non communiqué"}]},
+    {"position": "3e ligne", "players": [
+      {"name": "Marko GAZZOTTI", "injury": "Ischio-jambier droit (sorti à la 23e)", "return": "non communiqué"}]},
+    {"position": "Arrière", "players": [
+      {"name": "Romain BUROS", "injury": "Forfait de dernière minute · blessure non précisée", "return": "non communiqué"}]}
+  ],
+  "footer": [
+    "Infos confirmées par au moins deux sources de presse (25-26/10).",
+    "Liste non exhaustive. Prompt rétablissement à tous !"
+  ]
+}
